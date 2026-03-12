@@ -23,7 +23,7 @@ I am still **learning and improving my skills**, and I use my projects to practi
 - HTML
 - CSS
 - JavaScript
-- Git & GitHub
+- GitHub
 
 ---
 
