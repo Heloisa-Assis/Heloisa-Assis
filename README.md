@@ -27,14 +27,14 @@ I am still **learning and improving my skills**, and I use my projects to practi
 
 ---
 
-## 🎈 Currently
+## 🪭 Currently
 - Studying **Technical Informatics**
 - Learning more about **web development**
 - Building projects to improve my skills
 
 ---
 
-⭐ Feel free to explore my repositories and follow my learning journey!
+  Feel free to explore my repositories and follow my learning journey!
 
 <!--
 **Heloisa-Assis/Heloisa-Assis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
