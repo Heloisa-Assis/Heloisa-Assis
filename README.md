@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-## 👩‍💻 About Me
+## 🎀 About Me
 Hello! My name is **Heloisa**.
 
 I am a **first-year high school student** at **ETEC Antonio Furlan**, currently studying in the **Technical Program in Informatics**.
@@ -11,7 +11,7 @@ I am still **learning and improving my skills**, and I use my projects to practi
 
 ---
 
-## 🚀 Interests
+## 🌹 Interests
 - Web development
 - Front-end development
 - UI / interface design
@@ -19,7 +19,7 @@ I am still **learning and improving my skills**, and I use my projects to practi
 
 ---
 
-## 🛠️ Technologies I'm Learning
+## 🌹 Technologies I'm Learning
 - HTML
 - CSS
 - JavaScript
@@ -27,7 +27,7 @@ I am still **learning and improving my skills**, and I use my projects to practi
 
 ---
 
-## 📚 Currently
+## 🌹 Currently
 - Studying **Technical Informatics**
 - Learning more about **web development**
 - Building projects to improve my skills
